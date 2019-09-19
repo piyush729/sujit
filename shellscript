@@ -1,0 +1,5 @@
+ls -lrt
+time
+date
+pwd
+df -h
