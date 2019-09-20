@@ -1,3 +1,3 @@
 FROM tomcat:8
-COPY ./var/local/
-RUN cd./var/local && ls-ltr
+COPY ./tmp
+RUN cd./tmp && ls-ltr
